@@ -1,0 +1,90 @@
+body {
+	background-color: #FFE5B4;
+	}
+
+h1 {
+		font-family: Bahnschrift SemiBold;
+		font-size: 50px;
+		color: #002060;
+		text-indent: 150px;
+	}
+
+h2 {
+		font-family: Bahnschrift SemiBold;
+		font-size: 80px;
+		color: #000000;
+		text-align: center;
+	}
+
+p {
+		font-family: Bahnschrift SemiBold;
+		font-size: 30px;
+		color: #000000;
+		text-align: center;
+	}
+
+h2, p{
+		border-style: solid;
+		border-color: #FF0000;
+		padding: 10px;
+		background-color: #FFFF00;
+		transform: translate(20%, -100%);
+		width: 1250px;
+	}
+
+h3 {
+		border-style: solid;
+		border-color: #FF0000;
+		padding: 20px;
+		background-color: #FFFF00;
+		font-family: Bahnschrift SemiBold;
+		font-size: 25px;
+		color: #000000;
+		text-align: center;
+	}
+
+h4 {
+		font-family: Bahnschrift SemiBold;
+		font-size: 25px;
+		color: #002060;
+		text-indent: 150px;
+		text-align: right;
+	}
+
+img.one {
+	transform: translate(135%, -10%);
+	}
+
+img.two {
+	border-radius: 100%;
+}
+
+pre {
+		border-style: solid;
+		border-color: #2F528F;
+		padding: 20px;
+		text-align: center;
+		background-color: #4472C4;
+		font-family: Bahnschrift;
+		font-size: 30px;
+		color: #FFFFFF;
+	}
+	
+a {
+		color: #FFFFFF;
+	}
+	
+a:hover {
+	Background-color:#2F528F;
+	}
+	
+a.two {
+	position: absolute;
+	top: 1em;
+	right: 0.3em;
+	border-style: solid;
+	border-color: #2F528F;
+	background-color: #4472C4;
+	padding: 10px;
+	font-size: 30px;
+	}
